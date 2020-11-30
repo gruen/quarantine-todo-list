@@ -1,4 +1,4 @@
-# Quarartine TODOs
+# Quarantine TODOs
 
 Stuff to do if placed under mandatory quarantine:
 
